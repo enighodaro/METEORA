@@ -3,6 +3,8 @@ A space shooting game
 Language: C++ 
 
 # COMP4300_METEORA
+<img width="642" alt="Screen Shot 2022-12-16 at 11 40 32 AM" src="https://user-images.githubusercontent.com/55811118/208128407-7a2732f3-b5f7-4e3e-bf66-09305d737c4c.png">
+<img width="642" alt="Screen Shot 2022-12-16 at 11 40 41 AM" src="https://user-images.githubusercontent.com/55811118/208128414-70053a7a-d162-46f7-8118-76ca6aecc3ff.png">
 
 Project Group Members:
 
